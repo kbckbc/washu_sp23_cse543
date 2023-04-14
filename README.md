@@ -2,7 +2,8 @@
 23 Spring semester CSE 543(Algorithms for Nonlinear Optimization
 
 ## About the course
-The objective of the course is to get familiar with optimization theory, learn nonlinear optimization algorithms, and apply nonlinear optimization techniques to solve real-world problems. As a computer science course, we emphasize on the applications of optimization algorithms in data science and machine learning.
++ [Syllabus](https://github.com/kbckbc/washu_sp23_cse543/blob/main/presentation/Course-info.pdf)
++ The objective of the course is to get familiar with optimization theory, learn nonlinear optimization algorithms, and apply nonlinear optimization techniques to solve real-world problems. As a computer science course, we emphasize on the applications of optimization algorithms in data science and machine learning.
 
 ## Homework 1
 + [Instruction](https://github.com/kbckbc/washu_sp23_cse563/blob/main/homework1/Homework1.pdf)
