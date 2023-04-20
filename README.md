@@ -19,4 +19,7 @@
 
 ## Final project about MMVP(Modified Minimum Variance Portfolio)
 + [Instruction](https://github.com/kbckbc/washu_sp23_cse543/blob/main/project/Project.pdf) 
++ [PPT page](https://docs.google.com/presentation/d/1F4Viod5f05d2L-kMOtLZaNofi_idVYp8Z7SCFImg1bE/edit#slide=id.p)
 + [PDF file](https://github.com/kbckbc/washu_sp23_cse543/blob/main/project/mmvp.pdf)
++ [AMPL zip file](https://github.com/kbckbc/washu_sp23_cse543/blob/main/project/mmvp.pdf)
+
